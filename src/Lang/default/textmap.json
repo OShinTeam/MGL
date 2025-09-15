@@ -1,0 +1,22 @@
+{
+    "desc_mulitgamelauncher":"一站式游戏启动器",
+    "menu_main":"首页",
+    "menu_setting":"设置",
+    "menu_allgame":"所有游戏",
+    "menu_script":"插件商城",
+    "setting_normal":"基础设置",
+    "setting_normal_desc":"常见的基础配置项。",
+    "setting_adv":"高级设置",
+    "setting_adv_desc":"用于高级用户的配置项。",
+    "setting_user":"用户设置",
+    "setting_user_desc":"用户相关的配置项。",
+    "setting_lang":"语言选项",
+    "game_start":"开始游戏",
+    "game_runing":"正在运行",
+    "script_all":"全部",
+    "script_recent":"最近更新",
+    "script_cate":"分类",
+    "game_all":"全部",
+    "game_recent":"最近在玩",
+    "game_cate":"分类"
+}

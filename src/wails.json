@@ -1,0 +1,19 @@
+{
+  "$schema": "https://wails.io/schemas/config.v2.json",
+  "name": "MGL",
+  "outputfilename": "MulitGameLauncher",
+  "frontend:install": "npm install",
+  "frontend:build": "npm run build",
+  "frontend:dev:watcher": "npm run dev",
+  "frontend:dev:serverUrl": "auto",
+  "author": {
+    "name": "MoGuQAQ"
+  },
+   "info": {
+    "companyName": "MoGuQAQ",
+    "productName": "MulitGameLauncher",
+    "productVersion": "1.0.0",
+    "copyright": "Copyright © 2025 MoGuQAQ",
+    "comments": "GPL-3.0 license"
+   }
+}

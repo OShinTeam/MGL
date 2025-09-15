@@ -1,0 +1,14 @@
+[
+  {
+    "username": "johndoe",
+    "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.xxxxx",
+    "uuid": "ref_3x4mpl3_t0k3n_xxxxx",
+    "login_time": "2025-04-05T10:00:00Z"
+  },
+  {
+    "username": "johndoe",
+    "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.xxxxx",
+    "uuid": "ref_3x4mpl3_t0k3n_xxxxx",
+    "login_time": "2025-04-05T10:00:00Z"
+  }
+]
