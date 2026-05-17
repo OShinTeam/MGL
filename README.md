@@ -2,7 +2,7 @@
     <h1>Multi Game Launcher</h1>
 </div>
 
- ![MGL](https://socialify.git.ci/mogumc/MGL/image?custom_language=Go&description=1&font=JetBrains+Mono&forks=1&issues=1&language=1&logo=https%3A%2F%2Fgithub.com%2Fmogumc%2FMGL%2Fraw%2Fmain%2Fdocs%2Ficon.png&name=1&owner=1&pattern=Floating+Cogs&stargazers=1&theme=Auto)
+ ![MGL](https://socialify.git.ci/mogumc/MGL/image?custom_language=Go&description=1&font=JetBrains+Mono&forks=1&issues=1&language=1&logo=https%3A%2F%2Fgithub.com%2FOShinTeam%2FMGL%2Fraw%2Frelease%2Fdocs%2Ficon.png&name=1&owner=1&pattern=Floating+Cogs&stargazers=1&theme=Auto)
 
 <div align="center">
     <a href="https://dotnet.microsoft.com/zh-cn/download/dotnet/latest/runtime"><img alt="Windows" src="https://img.shields.io/badge/platform-Windows-blue?logo=windowsxp&style=flat-square&color=1E9BFA" /></a>
